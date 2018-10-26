@@ -47001,7 +47001,7 @@
   },
   {
     "annotation": "flag: Åland Islands",
-    "name": "ÅLAND ISLANDS",
+    "name": "ALAND ISLANDS",
     "hexcode": "1F1E6-1F1FD",
     "shortcodes": [
       "flag_ax"
@@ -47209,8 +47209,8 @@
     "version": 1
   },
   {
-    "annotation": "flag: St Barthélemy",
-    "name": "ST. BARTHÉLEMY",
+    "annotation": "flag: St Barthelemy",
+    "name": "ST. BARTHELEMY",
     "hexcode": "1F1E7-1F1F1",
     "shortcodes": [
       "flag_bl"
@@ -47551,7 +47551,7 @@
   },
   {
     "annotation": "flag: Côte d’Ivoire",
-    "name": "CÔTE D’IVOIRE",
+    "name": "COTE D'IVOIRE",
     "hexcode": "1F1E8-1F1EE",
     "shortcodes": [
       "flag_ci"
@@ -47741,7 +47741,7 @@
   },
   {
     "annotation": "flag: Curaçao",
-    "name": "CURAÇAO",
+    "name": "CURACAO",
     "hexcode": "1F1E8-1F1FC",
     "shortcodes": [
       "flag_cw"
@@ -50378,7 +50378,7 @@
   },
   {
     "annotation": "flag: Réunion",
-    "name": "RÉUNION",
+    "name": "REUNION",
     "hexcode": "1F1F7-1F1EA",
     "shortcodes": [
       "flag_re"
@@ -50776,7 +50776,7 @@
   },
   {
     "annotation": "flag: São Tomé & Príncipe",
-    "name": "SÃO TOMÉ & PRÍNCIPE",
+    "name": "SAO TOME & PRINCIPE",
     "hexcode": "1F1F8-1F1F9",
     "shortcodes": [
       "flag_st"
