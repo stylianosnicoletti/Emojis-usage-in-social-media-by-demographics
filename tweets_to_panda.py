@@ -33,13 +33,15 @@ def sample_to_including_emojis(data_attributes,file,emojis_list):
 	for line in file:
 		try:
 			tweet = json.loads(line)
-			# If there is an emoji in tweet 
-			if any(emoji in tweet['text'] for emoji in emojis_list):
-				data_attributes['text'].append(tweet['text'])
-				data_attributes['lang'].append(tweet['lang'])
-				data_attributes['country'].append(tweet['place']['country']if tweet['place'] != None else None)
-				# Trim size normal from picture url so as to display original size profile picture
-				data_attributes['prof_picture'].append("{}{}".format(tweet['user']['profile_image_url_https'][:-11],".jpg"))
+			# Check if the country is stated in tweet
+			if tweet['place']['country']!= None:
+				# If there is an emoji in tweet 
+				if any(emoji in tweet['text'] for emoji in emojis_list):
+					data_attributes['text'].append(tweet['text'])
+					data_attributes['lang'].append(tweet['lang'])
+					data_attributes['country'].append(tweet['place']['country']if tweet['place'] != None else None)
+					# Trim size normal from picture url so as to display original size profile picture
+					data_attributes['prof_picture'].append("{}{}".format(tweet['user']['profile_image_url_https'][:-11],".jpg"))
 		except:
 			continue
 
