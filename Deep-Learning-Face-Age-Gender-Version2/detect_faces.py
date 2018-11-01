@@ -37,16 +37,16 @@ print("[INFO] loading models...")
 def initialize_caffe_models():
 
 	face_net = cv2.dnn.readNetFromCaffe(
-		'deploy.prototxt.txt',
-		'res10_300x300_ssd_iter_140000.caffemodel')
+		'/home/stelios/Desktop/Honours Project/Models/deploy.prototxt.txt',
+		'/home/stelios/Desktop/Honours Project/Models/res10_300x300_ssd_iter_140000.caffemodel')
 	
 	age_net = cv2.dnn.readNetFromCaffe(
-		'dex_imdb_wiki.prototxt', 
-		'dex_imdb_wiki.caffemodel')
+		'/home/stelios/Desktop/Honours Project/Models/dex_imdb_wiki.prototxt', 
+		'/home/stelios/Desktop/Honours Project/Models/dex_imdb_wiki.caffemodel')
 
 	gender_net = cv2.dnn.readNetFromCaffe(
-		'gender.prototxt', 
-		'gender.caffemodel')
+		'/home/stelios/Desktop/Honours Project/Models/gender.prototxt', 
+		'/home/stelios/Desktop/Honours Project/Models/gender.caffemodel')
 		
 	return(face_net,age_net, gender_net)
 	
