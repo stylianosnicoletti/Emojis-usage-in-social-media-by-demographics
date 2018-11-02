@@ -1,5 +1,6 @@
 # Emojis-usage-in-social-media-by-demographics
-![](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis.png?raw=true)
+![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis.png?raw=true)
+img[emojis] { width: 200px; }
 In this project, we want to know if emojis are used differently by different personas. The main two categories of analysis are 1) gender: males/females, and 2) age: young/old. However, this can include other factors, such as countries, languages, and popularity on social media.
 </br>
 </br>
