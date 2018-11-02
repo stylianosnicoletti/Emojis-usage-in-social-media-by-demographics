@@ -13,11 +13,15 @@ Used in communication (replies, mentions) or in general posts
 </br>
 Topics of usage
 
-</br>Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts [3].
-
+</br>Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
+</br>
 The work steps contain the following:
-
+</br>
+</br>
 Collecting millions of tweets with emojis in English at least, (Twitter API to be used)
-Applying one of the state-of-the-art methods for gender and age estimation of Twitter users [4]
+</br>
+Applying one of the state-of-the-art methods for gender and age estimation of Twitter users
+</br>
 Performing statistical analysis for data
-Building emojis usage models for recommendation [3,5]
+</br>
+Building emojis usage models for recommendation
