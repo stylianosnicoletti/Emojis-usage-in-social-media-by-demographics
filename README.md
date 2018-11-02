@@ -4,23 +4,23 @@ In this project, we want to know if emojis are used differently by different per
 </br>
 For each group of persona, the following analysis to be applied:
 </br>
-1)Percentage of usage of emojis in each group
+1) Percentage of usage of emojis in each group
 </br>
-2)Top used emojis
+2) Top used emojis
 </br>
-3)Used in communication (replies, mentions) or in general posts
+3) Used in communication (replies, mentions) or in general posts
 </br>
-4)Topics of usage
+4) Topics of usage
 </br>
 </br>Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
 </br>
 </br>
 The work steps contain the following:
 </br>
-1)Collecting millions of tweets with emojis in English at least, (Twitter API to be used)
+1) Collecting millions of tweets with emojis in English at least, (Twitter API to be used)
 </br>
-2)Applying one of the state-of-the-art methods for gender and age estimation of Twitter users
+2) Applying one of the state-of-the-art methods for gender and age estimation of Twitter users
 </br>
-3)Performing statistical analysis for data
+3) Performing statistical analysis for data
 </br>
-4)Building emojis usage models for recommendation
+4) Building emojis usage models for recommendation
