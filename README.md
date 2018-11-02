@@ -15,6 +15,7 @@ Topics of usage
 
 </br>Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
 </br>
+</br>
 The work steps contain the following:
 </br>
 </br>
