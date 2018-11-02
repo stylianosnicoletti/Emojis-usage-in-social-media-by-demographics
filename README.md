@@ -12,8 +12,8 @@ For each group of persona, the following analysis to be applied:
 3) Used in communication (replies, mentions) or in general posts
 
 4) Topics of usage
-</br>
-</br>Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
+
+Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
 </br>
 </br>
 The work steps contain the following:
