@@ -13,7 +13,7 @@ For each group of persona, the following analysis to be applied:
 </br>
 </br>
 The work steps contain the following:
-</br>
+
 1) Collecting millions of tweets with emojis in English at least (Twitter API)
 
 2) Applying one of the state-of-the-art methods for gender and age estimation of Twitter users
