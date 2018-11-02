@@ -1,6 +1,6 @@
 # Emojis-usage-in-social-media-by-demographics
 In this project, we want to know if emojis are used differently by different personas. The main two categories of analysis are 1) gender: males/females, and 2) age: young/old. However, this can include other factors, such as countries, languages, and popularity on social media.
-
+</br>
 For each group of persona, the following analysis to be applied:
 
 Percentage of usage of emojis in each group
