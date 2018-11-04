@@ -17,7 +17,7 @@ with open(emojis_json_data_path) as f:
 	for element in data:
 		emoji_counter = 0 
 		# For each tweet
-		for tweet in tweets_with_emojis_df['text']:
+		for tweet in tweets_with_emojis_df['text_tweet']:
 			# If emoji in tweet
 			if element['emoji'] in tweet:
 				# Add its occurances in the tweet
