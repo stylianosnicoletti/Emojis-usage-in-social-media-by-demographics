@@ -1,5 +1,5 @@
 # Emojis-usage-in-social-media-by-demographics
-![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis_world_map.png?raw=true)=10x20 
+
 In this project, we want to know if emojis are used differently by different personas. 
 
 The main categories of analysis are:
@@ -22,3 +22,5 @@ Work steps contain the following:
 2) Trying different methods for gender and race estimation of Twitter users
 3) Performing statistical analysis for data
 4) Building user gender and race detection models using emojis
+
+![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis_world_map.png?raw=true)
