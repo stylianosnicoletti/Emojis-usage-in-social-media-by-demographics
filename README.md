@@ -1,6 +1,15 @@
 # Emojis-usage-in-social-media-by-demographics
 ![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis.png?raw=true)
-In this project, we want to know if emojis are used differently by different personas. The main two categories of analysis are 1) gender: males/females, and 2) age: young/old. However, this can include other factors, such as countries, languages, and popularity on social media.
+In this project, we want to know if emojis are used differently by different personas. 
+
+The main categories of analysis are:
+</br>
+1) Gender: Males, Females
+2) Race: White, Black, Asian, Hispanic
+3) Location: Worldwide, London, New York City, Johannesburg.
+
+
+However, this can include other factors, such as countries, languages, and popularity on social media.
 </br>
 </br>
 For each group of persona, the following analysis to be applied:
@@ -9,11 +18,7 @@ For each group of persona, the following analysis to be applied:
 
 2) Top used emojis
 
-3) Used in communication (replies, mentions) or in general posts
-
-4) Topics of usage
-
-Once the analysis is performed, the next step will be building models for recommending emojis to social media users in their posts.
+Building models for recommending emojis to social media users in their posts.
 </br>
 </br>
 The work steps contain the following:
