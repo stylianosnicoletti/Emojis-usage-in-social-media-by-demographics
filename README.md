@@ -23,4 +23,4 @@ Work steps contain the following:
 3) Performing statistical analysis for data
 4) Building user gender and race detection models using emojis
 
-![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/top_used_emojis.png.png?raw=true)
+![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/top_used_emojis.png?raw=true)
