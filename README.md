@@ -8,15 +8,13 @@ The main categories of analysis are:
 2) Race: White, Black, Asian, Hispanic
 3) Location: Worldwide, London, New York City, Johannesburg.
 
-
-However, this can include other factors, such as countries, languages, and popularity on social media.
+For each group of persona, the following analysis is applied:
 </br>
-</br>
-For each group of persona, the following analysis to be applied:
-</br>
-1) Percentage of usage of emojis in each group
+1) Percentage of usage of emojis 
 
 2) Top used emojis
+
+3) Distinctive emojis
 
 Building models for recommending emojis to social media users in their posts.
 </br>
