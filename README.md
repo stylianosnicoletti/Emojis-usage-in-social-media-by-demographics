@@ -1,5 +1,5 @@
 # Emojis-usage-in-social-media-by-demographics
-![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis_world_map.png?raw=true)=100x20 
+![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/emojis_world_map.png?raw=true)=10x20 
 In this project, we want to know if emojis are used differently by different personas. 
 
 The main categories of analysis are:
