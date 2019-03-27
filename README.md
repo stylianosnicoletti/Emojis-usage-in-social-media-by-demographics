@@ -23,5 +23,5 @@ Work steps contain the following:
 1) Collecting millions of tweets with emojis
 2) Trying different methods for gender and race estimation of Twitter users
 3) Performing statistical analysis for data
-4) Building user gender and race detection models using emojis
+4) Building user gender and race detection models using **only** emoji usage in users' timeline
 
