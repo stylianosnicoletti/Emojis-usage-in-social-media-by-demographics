@@ -2,7 +2,7 @@
 
 In this project, we want to know if emojis are used differently by different personas. 
 
-![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Screenshots/top_used_emojis.png?raw=true)
+![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Images/Publication_Images/TopEmoji_E.png?raw=true)
 
 The main categories of analysis are:
 </br>
