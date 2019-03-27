@@ -8,7 +8,7 @@ The main categories of analysis are:
 </br>
 1) Gender: Males, Females
 2) Race: White, Black, Asian, Hispanic
-3) Location: Worldwide, London, New York City, Johannesburg
+<!--- Location: Worldwide, London, New York City, Johannesburg --> 
 
 For each group of persona, the following analysis is applied:
 </br>
@@ -23,5 +23,5 @@ Work steps contain the following:
 1) Collecting millions of tweets with emojis
 2) Trying different methods for gender and race estimation of Twitter users
 3) Performing statistical analysis for data
-4) Building user gender and race detection models using emojis
+4) Building user gender and race detection models using **only** emoji usage in users' timeline
 
