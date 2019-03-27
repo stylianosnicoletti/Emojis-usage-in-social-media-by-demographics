@@ -8,7 +8,7 @@ The main categories of analysis are:
 </br>
 1) Gender: Males, Females
 2) Race: White, Black, Asian, Hispanic
-3) Location: Worldwide, London, New York City, Johannesburg
+#3) Location: Worldwide, London, New York City, Johannesburg
 
 For each group of persona, the following analysis is applied:
 </br>
