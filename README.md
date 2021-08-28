@@ -1,5 +1,7 @@
 # Emojis-usage-in-social-media-by-demographics
 
+https://project-archive.inf.ed.ac.uk/ug4/20191374/ug4_proj.pdf
+
 In this project, we want to know if emojis are used differently by different personas. 
 
 ![emojis](https://github.com/stylianosnicoletti/Emojis-usage-in-social-media-by-demographics/blob/master/Images/Publication_Images/TopEmoji_E_gitHub_small_size.png?raw=true)
